@@ -18,12 +18,12 @@ To run the script as a **bookmarklet**:
 
 To run the script from Google Chrome's **address bar**:
   1. Copy the contents of **youtubeClean.js** on _line 15_ and paste them into the address bar.
-  2. Press the [Enter/Return] key on your keyboard.
+  2. Press the <kbd>Enter/Return</kbd> key on your keyboard.
 
 To run the script from Google Chrome's **developer console**:
-  1. Open the developer console by pressing [Alt + Ctrl + I] on a PC or [Option + Command + I] on a Mac.
+  1. Open the developer console by pressing <kbd>Alt</kbd> + <kbd>Ctrl</kbd> + <kbd>I</kbd> on a PC or <kbd>Option</kbd> + <kbd>Command</kbd> + <kbd>I</kbd> on a Mac.
   2. Copy the contents of **youtubeClean.js** on _line 15_ and paste them into the developer console.
-  3. Press the [Enter/Return] key on your keyboard.
+  3. Press the <kbd>Enter/Return</kbd> key on your keyboard.
 
 -----
 
