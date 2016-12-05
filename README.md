@@ -1,5 +1,4 @@
 # YouTubeClean
------
 
 A JavaScript bookmarklet to view YouTube videos/playlists as their embedded equivalent.
 
@@ -44,13 +43,12 @@ Because YouTubeClean converts YouTube videos and playlists to their embedded equ
 #### Examples
 
 A video on YouTube:
-  https://www.youtube.com/watch?v=mnzlJtKy-2s
-  ![Video](https://github.com/dkidd928/YouTubeClean/blob/master/images/video_small.png)
+{% include figure.html src="../images/video_small.png" caption="https://www.youtube.com/watch?v=mnzlJtKy-2s" %}{% include figure.html src="../images/video_embed_small.png" caption="https://www.youtube.com/embed/mnzlJtKy-2s" %}
 
 A playlist on YouTube:
   https://www.youtube.com/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
-  ![Playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/playlist_small.png)
+  ![Playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/playlist_small.png) ![Playlist embed](https://github.com/dkidd928/YouTubeClean/blob/master/images/playlist_embed_small.png)
 
 A video on YouTube as part of a playlist:
   https://www.youtube.com/watch?v=FGkGEePenag&list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg&index=49
-  ![Video in playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/videoInPlaylist_small.png)
+  ![Video in playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/videoInPlaylist_small.png) ![Video in playlist embed](https://github.com/dkidd928/YouTubeClean/blob/master/images/videoInPlaylist_embed_small.png)
