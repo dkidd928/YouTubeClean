@@ -43,7 +43,7 @@ Because YouTubeClean converts YouTube videos and playlists to their embedded equ
 #### Examples
 
 A video on YouTube:
-{% include figure.html src="../images/video_small.png" caption="https://www.youtube.com/watch?v=mnzlJtKy-2s" %}{% include figure.html src="../images/video_embed_small.png" caption="https://www.youtube.com/embed/mnzlJtKy-2s" %}
+|![Video](https://github.com/dkidd928/YouTubeClean/blob/master/images/video_small.png)|![Video embed](https://github.com/dkidd928/YouTubeClean/blob/master/images/video_embed_small.png)|
 
 A playlist on YouTube:
   https://www.youtube.com/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
