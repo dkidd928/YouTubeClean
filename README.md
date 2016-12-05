@@ -47,7 +47,6 @@ A video on YouTube:
 Video                               |  Using YouTubeClean
 :----------------------------------:|:-----------------------------------------------:
 ![Video](./images/video_small.png)  |  ![Video embed](./images/video_embed_small.png)
-:----------------------------------:|:-----------------------------------------------:
 https://www.youtube.com/watch?v=mnzlJtKy-2s | https://www.youtube.com/embed/mnzlJtKy-2s
 
 A playlist on YouTube:
@@ -55,7 +54,6 @@ A playlist on YouTube:
 Playlist                                  |  Using YouTubeClean
 :----------------------------------------:|:-----------------------------------------------------:
 ![Playlist](./images/playlist_small.png)  |  ![Playlist embed](./images/playlist_embed_small.png)
-:----------------------------------------:|:-----------------------------------------------------:
 https://www.youtube.com/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg | https://www.youtube.com/embed/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
 
 A video on YouTube as part of a playlist:
@@ -63,5 +61,4 @@ A video on YouTube as part of a playlist:
 Video in Playlist                                         |  Using YouTubeClean
 :--------------------------------------------------------:|:-----------------------------------------------------:
 ![Video in playlist](./images/videoInPlaylist_small.png)  |  ![Video in playlist embed](./images/videoInPlaylist_embed_small.png)
-:--------------------------------------------------------:|:-----------------------------------------------------:
 https://www.youtube.com/watch?v=FGkGEePenag&list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg&index=49 | https://www.youtube.com/embed/FGkGEePenag?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
