@@ -44,7 +44,9 @@ Because YouTubeClean converts YouTube videos and playlists to their embedded equ
 
 A video on YouTube:
 
-![Video](https://github.com/dkidd928/YouTubeClean/blob/master/images/video_small.png) ![Video embed](https://github.com/dkidd928/YouTubeClean/blob/master/images/video_embed_small.png)
+Video                                           |  Using YouTubeClean
+:----------------------------------------------:|:-----------------------------------------------------------:
+![Video](~/blob/master/images/video_small.png)  |  ![Video embed](~/blob/master/images/video_embed_small.png)
 
 A playlist on YouTube:
   https://www.youtube.com/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
