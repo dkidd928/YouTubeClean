@@ -49,9 +49,13 @@ Video                               |  Using YouTubeClean
 ![Video](./images/video_small.png)  |  ![Video embed](./images/video_embed_small.png)
 
 A playlist on YouTube:
-  https://www.youtube.com/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
-  ![Playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/playlist_small.png) ![Playlist embed](https://github.com/dkidd928/YouTubeClean/blob/master/images/playlist_embed_small.png)
+
+Playlist                                  |  Using YouTubeClean
+:----------------------------------------:|:-----------------------------------------------------:
+![Playlist](./images/playlist_small.png)  |  ![Playlist embed](./images/playlist_embed_small.png)
 
 A video on YouTube as part of a playlist:
-  https://www.youtube.com/watch?v=FGkGEePenag&list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg&index=49
-  ![Video in playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/videoInPlaylist_small.png) ![Video in playlist embed](https://github.com/dkidd928/YouTubeClean/blob/master/images/videoInPlaylist_embed_small.png)
+
+Video in Playlist                                         |  Using YouTubeClean
+:--------------------------------------------------------:|:-----------------------------------------------------:
+![Video in playlist](./images/videoInPlaylist_small.png)  |  ![Video in playlist embed](./images/videoInPlaylist_embed_small.png)
