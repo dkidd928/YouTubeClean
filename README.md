@@ -45,12 +45,12 @@ Because YouTubeClean converts YouTube videos and playlists to their embedded equ
 
 A video on YouTube:
   https://www.youtube.com/watch?v=mnzlJtKy-2s
-  ![Video](https://github.com/dkidd928/YouTubeClean/images/video_small.png)
+  ![Video](https://github.com/dkidd928/YouTubeClean/blob/master/images/video_small.png)
 
 A playlist on YouTube:
   https://www.youtube.com/playlist?list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg
-  ![Playlist](https://github.com/dkidd928/YouTubeClean/images/playlist_small.png)
+  ![Playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/playlist_small.png)
 
 A video on YouTube as part of a playlist:
   https://www.youtube.com/watch?v=FGkGEePenag&list=PLgNjCSGFfYetqrZxlYiU8yWaBs-XMmdqg&index=49
-  ![Video in playlist](https://github.com/dkidd928/YouTubeClean/images/videoInPlaylist_small.png)
+  ![Video in playlist](https://github.com/dkidd928/YouTubeClean/blob/master/images/videoInPlaylist_small.png)
