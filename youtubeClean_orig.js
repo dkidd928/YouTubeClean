@@ -3,7 +3,7 @@
  * YouTubeClean
  * 
  * @license The Unlicense, http://unlicense.org/
- * @version 0.2.0
+ * @version 0.2.1
  * @author  Derek Kidd
  * @updated 12.08.2020
  * @link    https://github.com/dkidd928/YouTubeClean
@@ -16,6 +16,9 @@ function ytClean() {
     var playlist = urlParams.get('list');
     if (playlist != null) {
         playlist = "?list=" + playlist;
+        if (video == null){
+            video = "playlist"
+        }
     }
     else {
         playlist = "";
