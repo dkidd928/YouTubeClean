@@ -12,4 +12,4 @@
  * 
  */
 
-javascript:(!function(){var e=new URLSearchParams(window.location.search),a=e.get("v"),n=e.get("list");n=null!=n?"?list="+n:"",location.href="/embed/"+a+n}();
+javascript:!function(){var e=new URLSearchParams(window.location.search),a=e.get("v"),n=e.get("list");n=null!=n?"?list="+n:"",location.href="/embed/"+a+n}();
